@@ -94,7 +94,7 @@ def extract_data_from_item(item):
             "cellular_component": "",  # Placeholder for later population
             "domain":  "",  # Placeholder for later population
             "range":  "",  # Placeholder for later population
-            "status": "",  # Add the status field,  # Placeholder for later population
+            "status": "known_glycosite",  # Add the status field
 
     }
 
